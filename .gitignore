@@ -1,0 +1,8 @@
+# PyCharm 相关
+.idea/
+__pycache__/
+*.py[cod]
+
+# 虚拟环境
+.venv
+.env\
